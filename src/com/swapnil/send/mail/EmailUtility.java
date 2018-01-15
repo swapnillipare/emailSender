@@ -15,7 +15,7 @@ import javax.mail.internet.MimeMessage;
 
 /**
  * 
- * @author Swanil
+ * @author Swapnil
  *
  */
 public class EmailUtility {
