@@ -20,12 +20,12 @@
 
 	<context-param>
 		<param-name>user</param-name>
-		<param-value>cloudclob88@gmail.com</param-value>
+		<param-value>emailiID@gmail.com</param-value>
 	</context-param>
 
 	<context-param>
 		<param-name>pass</param-name>
-		<param-value>cloudclob@88</param-value>
+		<param-value>password</param-value>
 	</context-param>
 
 	<welcome-file-list>
